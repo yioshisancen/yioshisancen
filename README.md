@@ -1,8 +1,7 @@
 <!--Customizing Profile - God Level!-->
-
+---
 <!--First Greeting-->
 ### Hi there 👋 Welcome, feel free to explore this space!
-
 ---
 <!--
 **yioshisancen/yioshisancen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +17,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yioshisancen&langs_count=5)
+Pediente
+---
+<div align="center">
+  <a href="https://open.spotify.com/user/yioshi">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yioshisancen&langs_count=5&theme=gotham)
 
 ---
 <!--Profile Stats-->
