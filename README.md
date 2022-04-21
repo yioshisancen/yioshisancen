@@ -16,16 +16,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ..
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 Pediente
----
+-->
+
 <!--Now Playing-->
-<div align="center">
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yioshi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-</div>
+<div align="center"> ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yioshi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)</div>
 ---
 <!--Top Languajes-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yioshisancen&langs_count=5&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yioshisancen&langs_count=5)
 
 ---
 <!--Profile Stats-->
