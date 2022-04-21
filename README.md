@@ -21,9 +21,7 @@ Pediente
 ---
 <!--Now Playing-->
 <div align="center">
-  <a href="https://open.spotify.com/user/yioshi">
-    <img src="https://open.spotify.com/playlist/2mze8eK2JeLbCW0mvgowvU?uid=148779c91fff4b42&uri=spotify%3Atrack%3A3i1il3IAhDOnm7IXd22BnP">
-  </a>
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yioshi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
 ---
 <!--Top Languajes-->
