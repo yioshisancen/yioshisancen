@@ -19,12 +19,14 @@ Here are some ideas to get you started:
 -->
 Pediente
 ---
+<!--Now Playing-->
 <div align="center">
   <a href="https://open.spotify.com/user/yioshi">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+    <img src="https://open.spotify.com/playlist/2mze8eK2JeLbCW0mvgowvU?uid=148779c91fff4b42&uri=spotify%3Atrack%3A3i1il3IAhDOnm7IXd22BnP">
   </a>
 </div>
 ---
+<!--Top Languajes-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yioshisancen&langs_count=5&theme=gotham)
 
 ---
