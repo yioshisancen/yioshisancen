@@ -3,18 +3,16 @@
 <div align="center">
 
 <!--Welcome .GIF-->
-<img src="https://imgflip.com/gif/6dctm3" alt="welcome" width="900"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" alt="welcome" width="900"/>
 
 <!--First Greeting-->
 ### Hi there 👋 Welcome and feel free to explore this space!
 ---
 <!--
-**yioshisancen/yioshisancen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Cybersecurity
+- 🌱 I’m currently learning how to scripting
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
