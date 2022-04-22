@@ -24,7 +24,7 @@ Pediente
 -->
 
 <!--Spotify now playing-->
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yioshi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yioshi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)(href:"https://open.spotify.com/user/yioshi")
 ---
 <!--Top Languajes Used-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yioshisancen&langs_count=5)
