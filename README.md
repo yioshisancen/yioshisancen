@@ -3,21 +3,21 @@
 
 <!--Welcome .GIF-->
 ---
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" alt="welcome" width="900"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" alt="Welcome" width="1000"/>
 
 <!--First Greeting-->
 ---
-### Hi there 👋 Welcome and feel free to explore this space!
+# Hi there 👋 Welcome and feel free to explore this space!
 
 
 <!--About Me-->
----
+
 | About Me |
 | --- |
-| + 🔭 I’m currently working on Cybersecurity |
-| + 🌱 I’m currently learning how to scripting |
-| + 👯 I’m looking to collaborate on beginners projects |
-| + 🤔 I’m looking for help with Machine Learning |
+    + 🔭 I’m currently working on Cybersecurity
+    + 🌱 I’m currently learning how to scripting
+    + 👯 I’m looking to collaborate on beginners projects
+    + 🤔 I’m looking for help with Machine Learning
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -32,7 +32,7 @@
 Print "Hello World"
 <!--Spotify now playing-->
 ---
-![Spotify Music](https://spotify-github-profile.vercel.app/api/view?uid=yioshi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)
+![Spotifi Music](https://spotify-github-profile.vercel.app/api/view?uid=yioshi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)
 
 <!--Top Languajes Used-->
 ---
@@ -43,8 +43,5 @@ Print "Hello World"
 ![My GitHub stats](https://github-readme-stats-two-chi-94.vercel.app/api?username=yioshisancen&show_icons=true&theme=gotham)
 
 <!--PENDIENTE-->
-
-
-
 
 </div>
