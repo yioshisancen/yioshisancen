@@ -24,7 +24,7 @@ About Me
 -->
 ---
 ##H2 Actual Programing
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png](https://www.python.org/"]/>
+<!img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png](https://www.python.org/"/>
 ---
 <!--Spotify now playing-->
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yioshi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)
