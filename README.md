@@ -14,10 +14,10 @@
 ---
 | About Me |
 | --- |
-| + 🔭 I’m currently working on Cybersecurity
-  + 🌱 I’m currently learning how to scripting
-  + 👯 I’m looking to collaborate on beginners projects
-  + 🤔 I’m looking for help with Machine Learning |
+| + 🔭 I’m currently working on Cybersecurity |
+| + 🌱 I’m currently learning how to scripting |
+| + 👯 I’m looking to collaborate on beginners projects |
+| + 🤔 I’m looking for help with Machine Learning |
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
