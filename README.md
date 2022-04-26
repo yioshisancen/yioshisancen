@@ -32,7 +32,7 @@
 Print "Hello World"
 <!--Spotify now playing-->
 ---
-![Spotifi Music](https://spotify-github-profile.vercel.app/api/view?uid=yioshi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)
+[![Spotify](https://spotify-now-playing-lovat.vercel.app/api/spotify)](https://open.spotify.com/user/yioshi)
 
 <!--Top Languajes Used-->
 ---
