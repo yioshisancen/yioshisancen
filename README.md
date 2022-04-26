@@ -3,7 +3,7 @@
 
 <!--Welcome .GIF-->
 ---
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" alt="Welcome" width="1000"/>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" alt="Welcome" width="1000"/>](https://github.com/yioshisancen)
 
 <!--First Greeting-->
 ---
@@ -36,11 +36,11 @@ Print "Hello World"
 
 <!--Top Languajes Used-->
 ---
-![5 Top Languages Used](https://github-readme-stats-two-chi-94.vercel.app/api/top-langs/?username=yioshisancen&langs_count=5)
+[![5 Top Languages Used](https://github-readme-stats-two-chi-94.vercel.app/api/top-langs/?username=yioshisancen&langs_count=5)](https://github.com/yioshisancen)
 
 <!--Profile Stats-->
 ---
-![My GitHub stats](https://github-readme-stats-two-chi-94.vercel.app/api?username=yioshisancen&show_icons=true&theme=gotham)
+[![My GitHub stats](https://github-readme-stats-two-chi-94.vercel.app/api?username=yioshisancen&show_icons=true&theme=gotham)](https://github.com/yioshisancen)
 
 <!--PENDIENTE-->
 
