@@ -1,23 +1,21 @@
 <!--Customizing Profile - God Level!-->
 <div align="center">
 
-<!--Welcome .GIF-->
----
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" alt="Welcome" width="1000"/>](https://github.com/yioshisancen)
-
 <!--First Greeting-->
 ---
 # Hi there 👋 Welcome and feel free to explore this space!
 
+<!--Welcome .GIF-->
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" alt="Welcome" width="1000"/>](https://github.com/yioshisancen)
 
 <!--About Me-->
-
-| About Me |
-| --- |
+# About Me
+~~~
     + 🔭 I’m currently working on Cybersecurity
     + 🌱 I’m currently learning how to scripting
     + 👯 I’m looking to collaborate on beginners projects
     + 🤔 I’m looking for help with Machine Learning
+~~~
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -26,10 +24,10 @@
 -->
 
 <!--Actual Projects-->
----
-## Actual Projects
+# Actual Projects
 
-Print "Hello World"
+### Print "Hello World"
+
 <!--Spotify now playing-->
 ---
 [![Spotify](https://spotify-now-playing-lovat.vercel.app/api/spotify)](https://open.spotify.com/user/yioshi)
